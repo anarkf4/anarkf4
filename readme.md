@@ -32,4 +32,3 @@ Tienes la completa libertad de preguntarme sobre lo que desees en mis redes soci
 1. Coaching
 2. Trabajo bajo presión
 3. Alta comunicación efectiva
->>>>>>> ff738cd2db78b5493baacd1508cba18a4e5f5db4
