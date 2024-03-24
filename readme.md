@@ -10,7 +10,7 @@ Tienes la completa libertad de preguntarme sobre lo que desees en mis redes soci
 
 ## Tecnología
 
-- Manejo de plataformas Seller Center
+- Manejo de plataformas Seller Center en Marketplace
 - Manejo de MS Office a nivel avanzado
 - Manejo de lenguaje de programación orientado a frontend y backend
-
+- Manejo de software de análisis de datos como Power BI, Tableau, Zendesk, Attlasian
