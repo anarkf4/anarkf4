@@ -8,6 +8,11 @@ Soy un ingeniero industrial con 5 años de experiencia en el área comercial, es
 
 Tienes la completa libertad de preguntarme sobre lo que desees en mis redes sociales (LinkedIn, Whatsapp)
 
+## Hobbies
+
+- Tocar piano y guitarra
+- Escribir poesía
+- Improvisar
 ## Tecnología
 
 - Manejo de plataformas Seller Center
